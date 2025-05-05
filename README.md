@@ -165,5 +165,3 @@ A demonstration video (to be recorded) will showcase:
 - The project prioritizes showcasing agent orchestration, session management, and engineering thought process, as emphasized in the task.
 - The CSV storage requirement is strictly followed, while session state is managed in-memory for simplicity.
 - Future improvements could include persistent session storage (e.g., database) and more robust error handling for production use.
-
-Good luck with the review, and thank you for evaluating this project!
